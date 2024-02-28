@@ -1,4 +1,5 @@
 import package.of.Vector;
+
 public class Vectorcito extends Vector {
     private int x;
     private int y;
